@@ -342,7 +342,7 @@
 			(uuid "a14b982b-21e0-4761-9775-a8051df995a7")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "da140b05-7bd9-4e3b-adca-489ef886a6d6")
 			(effects
@@ -865,7 +865,7 @@
 			(uuid "497112e0-6bc5-41a9-8d61-3d8fe2e46d5b")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at 3.801391 0.827436 180)
 			(layer "Dwgs.User")
 			(uuid "2313c8da-cf97-448a-ba8d-890fbbe8c0ef")
 			(effects
@@ -1388,7 +1388,7 @@
 			(uuid "ab1273df-fcd7-4ab4-a1b4-60640089c3fd")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "670cf90b-b122-4b2a-bf22-0f1d25042e53")
 			(effects
@@ -1911,7 +1911,7 @@
 			(uuid "ede6b905-29f1-4bcf-9bfa-d1bac63ccc27")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "1dad9760-836b-42a7-92b4-6d5ee7c25eb4")
 			(effects
@@ -2434,7 +2434,7 @@
 			(uuid "6a43ed0c-d781-4546-839e-806537bbb4c4")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at 3.82 0.32 180)
 			(layer "Dwgs.User")
 			(uuid "99aad912-2d9b-4721-905b-92aabb8731d8")
 			(effects
@@ -2957,7 +2957,7 @@
 			(uuid "f6ea16e9-d1a4-48da-adb7-f2b3886481e5")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 90)
+			(at 31.1183 0.096892 180)
 			(layer "Dwgs.User")
 			(uuid "b02254a3-7ef0-4070-9cbe-1d1dd2146526")
 			(effects
@@ -3768,7 +3768,7 @@
 			(uuid "7897ccc8-11f8-4569-a0d3-271522036392")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "bb62dd1c-b136-4e50-95e7-f71d1926d7ed")
 			(effects
@@ -4291,7 +4291,7 @@
 			(uuid "b4e7ab31-31b0-4c14-8f0c-8e83df6188aa")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at 3.735 1.255 180)
 			(layer "Dwgs.User")
 			(uuid "1d763339-6c49-41b8-aeab-a0eeb186be29")
 			(effects
@@ -4814,7 +4814,7 @@
 			(uuid "19b026f8-8589-49ff-834c-570fff2a04dd")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "269a6e70-4d90-4126-978c-e97d6efd8ee9")
 			(effects
@@ -5337,7 +5337,7 @@
 			(uuid "4c0567ba-e728-43de-9707-5ed7426d2242")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at 4.515 0.125 180)
 			(layer "Dwgs.User")
 			(uuid "e714e42e-7108-4056-942b-c3037cd99932")
 			(effects
@@ -5860,7 +5860,7 @@
 			(uuid "955f9855-17f6-47b6-b1a5-c89c04b4a749")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at 3.793783 1.633401 180)
 			(layer "Dwgs.User")
 			(uuid "d866d78d-be6e-43de-8471-48eb4ba6005e")
 			(effects
@@ -6383,7 +6383,7 @@
 			(uuid "cc99bee0-67f1-4a4f-ada8-c10231e7b636")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "77c24e21-8663-4d0e-a8d0-b536da588781")
 			(effects
@@ -6906,7 +6906,7 @@
 			(uuid "22ce3a40-29e1-46e9-805c-2b151769991f")
 		)
 		(fp_text user "STIFFENER (total 0.2mm thickness)"
-			(at 0.18 -29.52309 180)
+			(at -2.1 1 180)
 			(layer "Dwgs.User")
 			(uuid "3b5e8d39-7913-47fd-bdb1-a70dea526950")
 			(effects
